@@ -8,7 +8,7 @@ RAG Ligero es un sistema pequeño y ligero de recuperación de información y ge
 - **Generación de Respuestas**: Genera respuestas contextuales basadas en un historial de conversación y un contexto proporcionado.
 - **Integración de Audio**: Convierte texto a audio utilizando modelos de síntesis de voz.
 
-**README.md**: Este archivo proporciona una descripción general del proyecto "RAG Ligero". Detalla las características principales del sistema, como la búsqueda vectorial, la generación de respuestas, la integración de audio y la API REST. También incluye instrucciones para la instalación y el uso del sistema.
+**README.md**: Este archivo proporciona una descripción general del proyecto "RAG Ligero". Detalla las características principales del sistema, como la búsqueda vectorial, la generación de respuestas, la integración de audio. También incluye instrucciones para la instalación y el uso del sistema.
 **textToVector.py**: Este archivo contiene funciones para convertir texto en vectores utilizando modelos de OpenAI. Incluye la gestión de archivos JSON para almacenar y recuperar datos vectoriales, así como la generación de cadenas aleatorias para nombrar archivos.
 **searchVector.py**: Este archivo implementa funciones para buscar texto en una base de datos vectorial utilizando diferentes métricas de similitud, como linalg, coseno, jaccard y hamming. Cada función de métrica calcula la distancia entre vectores y devuelve los resultados más cercanos.
 **formatText.py**: Este archivo contiene funciones para formatear texto. Incluye la unión de textos cortos, la división de textos largos en fragmentos más pequeños y el formateo de texto utilizando marcadores específicos.
