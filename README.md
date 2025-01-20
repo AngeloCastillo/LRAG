@@ -22,7 +22,7 @@ RAG Ligero es un sistema pequeño y ligero de recuperación de información y ge
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/AngeloCastillo/RAG.git
+   git clone https://github.com/AngeloCastillo/LRAG.git
    cd LRAG
    ```
 
