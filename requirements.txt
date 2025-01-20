@@ -1,0 +1,7 @@
+fastapi
+pydantic
+openai
+numpy
+uvicorn
+selenium
+PyPDF2
