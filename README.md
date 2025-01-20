@@ -1,6 +1,6 @@
 # RAG Ligero
 
-RAG Ligero es un sistema pequeño y ligero de recuperación de información y generación de respuestas utilizando modelos de lenguaje avanzados, por ahora solo funciona con OpenAI. Este proyecto está diseñado para integrar capacidades de búsqueda vectorial y generación de texto en aplicaciones web de uso ligero.
+RAG Ligero es un sistema pequeño y ligero de recuperación de información y generación de respuestas utilizando modelos de lenguaje avanzados, por ahora solo funciona con OpenAI. Este proyecto está diseñado para integrar capacidades de búsqueda vectorial y generación de texto de uso ligero, rápido, local y personal. Con solo subir tu información, puedes tener un asistente de IA personalizado en segundos.
 
 ## Características
 
@@ -22,7 +22,7 @@ RAG Ligero es un sistema pequeño y ligero de recuperación de información y ge
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/AngeloCastillo/LRAG.git
+   git clone https://github.com/AngeloCastillo/RAG.git
    cd LRAG
    ```
 
